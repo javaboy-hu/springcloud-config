@@ -1,1 +1,2 @@
-config:fo: this test
+config:
+ info: this is test
